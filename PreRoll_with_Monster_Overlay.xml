@@ -1,0 +1,47 @@
+<VAST version="2.0">
+<Ad id="2482c0c1cdde942d00a035c29844bf71" sequence="1">
+<InLine>
+<AdSystem>Kargo</AdSystem>
+<AdTitle>Test VAST</AdTitle>
+<Creatives>
+<Creative sequence="1">
+<Linear>
+<Duration>00:00:06.144</Duration>
+<TrackingEvents></TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://google.com ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile height="300" width="534" bitrate="698" type="video/mp4" delivery="progressive">
+<![CDATA[
+https://storage.cloud.kargo.com/ad/mos/videos/1ffc803c3138cc8e967e12322059e623.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="2482c0c1cdde942d00a035c29844bf71-overlay" sequence="2">
+<InLine>
+<AdSystem>Kargo</AdSystem>
+<AdTitle>Test VAST</AdTitle>
+<Creatives>
+<Creative sequence="1">
+<NonLinearAds>
+<NonLinear width="320" height="50" minSuggestedDuration="00:00:05" scalable="true" maintainAspectRatio="true">
+<IFrameResource>
+<![CDATA[
+https://storage.cloud.kargo.com/ad/campaign/rm/jackInTheBox/top-banner/jackInTheBox-top-banner.html
+]]>
+</IFrameResource>
+</NonLinear>
+</NonLinearAds>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
