@@ -32,7 +32,7 @@ https://storage.cloud.kargo.com/ad/mos/videos/1ffc803c3138cc8e967e12322059e623.m
 <Creatives>
 <Creative sequence="1">
 <NonLinearAds>
-<NonLinear width="320" height="50" minSuggestedDuration="00:00:05" scalable="true" maintainAspectRatio="true">
+<NonLinear width="320" height="100" minSuggestedDuration="00:00:05" scalable="true" maintainAspectRatio="true">
 <IFrameResource>
 <![CDATA[
 https://jaretpwatkins.github.io/kargo/amazon_anchor.html
