@@ -35,6 +35,7 @@ https://jaretpwatkins.github.io/kargo/binary.mp4
 <NonLinear width="500" height="50" minSuggestedDuration="00:00:05" scalable="true" maintainAspectRatio="true">
 <HTMLResource>
 <![CDATA[
+<html>
 <img width="1" height="1" alt="" style="position: absolute; left: -9999px;" src="%%VIEW_URL_UNESC%%" />
 <div class="celtra-ad-v3">
     <!-- eas.JWVjaWQh         = raw %ecid! -->
@@ -98,6 +99,7 @@ https://jaretpwatkins.github.io/kargo/binary.mp4
     }
 }
 -->
+</html>
 ]]>
 </HTMLResource>
 </NonLinear>
