@@ -32,7 +32,7 @@ https://jaretpwatkins.github.io/kargo/binary.mp4
 <Creatives>
 <Creative sequence="1">
 <NonLinearAds>
-<NonLinear width="320" height="50" minSuggestedDuration="00:00:05" scalable="true" maintainAspectRatio="true">
+<NonLinear width="140" height="50" minSuggestedDuration="00:00:05" scalable="true" maintainAspectRatio="true">
 <IFrameResource>
 <![CDATA[
 https://jaretpwatkins.github.io/kargo/monster_hover.html
