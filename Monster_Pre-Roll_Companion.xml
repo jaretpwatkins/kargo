@@ -24,7 +24,7 @@
 </Creative>
 <Creative AdID="601364-Companion">
 	  <CompanionAds>
-           <Companion width="320" height="50">
+           <Companion id="601364-Companion" width="320" height="50">
 <StaticResource creativeType="image/png">
 <![CDATA[
 http://storage.cloud.kargo.com/ad/kailtra/highrise/1589302828903-breakout.png
