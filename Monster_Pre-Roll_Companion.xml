@@ -25,11 +25,11 @@
 <Creative AdID="601364-Companion">
 	  <CompanionAds>
            <Companion width="320" height="50">
-<IFrameResource>
+<StaticResource creativeType="image/png">
 <![CDATA[
-https://jaretpwatkins.github.io/kargo/monster_hover.html
+http://storage.cloud.kargo.com/ad/kailtra/highrise/1589302828903-breakout.png
 ]]>
-</IFrameResource>
+</StaticResource>
            </Companion>
          </CompanionAds>
        </Creative>
