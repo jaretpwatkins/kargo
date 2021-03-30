@@ -32,14 +32,14 @@ https://jaretpwatkins.github.io/kargo/binary.mp4
 <Creatives>
 <Creative sequence="1">
   <CompanionAds>
-            <Companion id="1232" width="320" height="50" assetWidth="320" assetHeight="50" adSlotID="3214">
+    <Companion id="1232" width="320" height="50" assetWidth="320" assetHeight="50" expandedWidth="320" expandedHeight="50" adSlotID="1232" pxratio="1400">
               <IFrameResource>
                 <![CDATA[
                   https://jaretpwatkins.github.io/kargo/amazon_anchor.html
                 ]]>
               </IFrameResource>
-            </Companion>
-          </CompanionAds>
+     </Companion>
+   </CompanionAds>
 </Creative>
 </Creatives>
 </InLine>
