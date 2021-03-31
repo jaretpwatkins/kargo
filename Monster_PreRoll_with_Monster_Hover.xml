@@ -32,21 +32,21 @@ https://jaretpwatkins.github.io/kargo/binary.mp4
 <Creatives>
 <Creative sequence="1">
 <NonLinearAds>
-<NonLinear width="414" height="150" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+<NonLinear width="414" height="30" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
 <IFrameResource>
 <![CDATA[
 https://storage.cloud.kargo.com/ad/vast/overlay/breakaway.html
 ]]>
 </IFrameResource>
 </NonLinear>
-  <NonLinear width="375" height="150" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+  <NonLinear width="375" height="30" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
 <IFrameResource>
 <![CDATA[
 https://storage.cloud.kargo.com/ad/vast/overlay/breakaway.html
 ]]>
 </IFrameResource>
 </NonLinear>
-  <NonLinear width="320" height="150" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+  <NonLinear width="320" height="30" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
 <IFrameResource>
 <![CDATA[
 https://storage.cloud.kargo.com/ad/vast/overlay/breakaway.html
