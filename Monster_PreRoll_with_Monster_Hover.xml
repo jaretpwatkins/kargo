@@ -53,6 +53,13 @@ https://storage.cloud.kargo.com/ad/vast/overlay/breakaway.html
 ]]>
 </IFrameResource>
 </NonLinear>
+  <NonLinear width="320" height="50" minSuggestedDuration="00:00:05" scalable="true" maintainAspectRatio="true">
+<StaticResource creativeType="image/png">
+<![CDATA[
+http://storage.cloud.kargo.com/ad/kailtra/highrise/1589302828903-breakout.png
+]]>
+</StaticResource>
+</NonLinear>
 </NonLinearAds>
 </Creative>
 </Creatives>
