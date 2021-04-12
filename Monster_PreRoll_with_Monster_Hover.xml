@@ -32,6 +32,9 @@ https://jaretpwatkins.github.io/kargo/binary.mp4
 <Creatives>
 <Creative sequence="1">
 <NonLinearAds>
+              <TrackingEvents>
+              <Tracking event="creativeView">https://kds-pixel.kargo.com/api/v1/track?partner_id=72793ded&event=PageView</Tracking>
+            </TrackingEvents>
 <NonLinear width="414" height="50" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
 <IFrameResource>
 <![CDATA[
