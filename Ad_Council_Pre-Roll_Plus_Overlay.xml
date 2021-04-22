@@ -20,6 +20,13 @@ https://jaretpwatkins.github.io/kargo/Ad_Council.mp4
 ]]>
 </MediaFile>
 </MediaFiles>
+   <Icons>
+                          <Icon program="AdChoices" width="320" height="50" xPosition="left" yPosition="top">
+                            <StaticResource creativeType="image/png">
+                              <![CDATA[https://youradchoices.com/DAA_style/YAC/Icon_White_Box.png]]>
+                            </StaticResource>
+                          </Icon>
+                        </Icons>
 </Linear>
 </Creative>
 </Creatives>
