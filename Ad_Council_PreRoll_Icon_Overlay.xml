@@ -21,9 +21,9 @@ https://jaretpwatkins.github.io/kargo/Ad_Council.mp4
 </MediaFile>
 </MediaFiles>
  <Icons>
-                          <Icon program="AdChoices" width="50" height="50" xPosition="left" yPosition="top">
+                          <Icon program="AdChoices" width="50" height="50" xPosition="right" yPosition="bottom">
                             <StaticResource creativeType="image/png">
-                              <![CDATA[https://youradchoices.com/DAA_style/YAC/Icon_White_Box.png]]>
+                              <![CDATA[https://jaretpwatkins.github.io/kargo/Ad_Council.png]]>
                             </StaticResource>
                           </Icon>
                         </Icons>
