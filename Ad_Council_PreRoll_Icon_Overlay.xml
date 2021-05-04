@@ -21,7 +21,7 @@ https://jaretpwatkins.github.io/kargo/Ad_Council.mp4
 </MediaFile>
 </MediaFiles>
  <Icons>
-                          <Icon program="AdChoices" width="50" height="50" xPosition="right" yPosition="bottom">
+                          <Icon program="AdChoices" width="160" height="60" xPosition="right" yPosition="bottom">
                             <StaticResource creativeType="image/png">
                               <![CDATA[https://jaretpwatkins.github.io/kargo/Ad_Council.png]]>
                             </StaticResource>
