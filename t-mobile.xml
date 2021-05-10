@@ -33,7 +33,7 @@
                     <![CDATA[https://tk.kargo.com/t/click.2eucc5arkobuhdrk?rand=%%CACHEBUSTER%%&kid=%%PATTERN:kid%%&uuid=%%PATTERN:uuid%%&aslot={AD_SLOT}&krg_imp_id={IMP_ID}&url=]]></ClickTracking>
                 </VideoClicks>
                 <MediaFiles>
-                  <MediaFile height="360" width="640" bitrate="480" type="video/mp4" delivery="progressive">
+                  <MediaFile height="360" width="534" bitrate="472" type="video/mp4" delivery="progressive">
                       <![CDATA[https://storage.cloud.kargo.com/ad/vast/7fb4b368d6eaddcb2daa8b8965dcf360.xml]]>
                   </MediaFile>
                 </MediaFiles>
