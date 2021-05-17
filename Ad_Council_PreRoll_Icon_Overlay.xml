@@ -16,7 +16,7 @@
 <MediaFiles>
 <MediaFile height="300" width="534" bitrate="698" type="video/mp4" delivery="progressive">
 <![CDATA[
-https://jaretpwatkins.github.io/kargo/Ad_Council.mp4
+https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council.mp4
 ]]>
 </MediaFile>
 </MediaFiles>
@@ -42,28 +42,28 @@ https://jaretpwatkins.github.io/kargo/Ad_Council.mp4
 <NonLinear width="414" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
 <IFrameResource>
 <![CDATA[
-https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
+https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
 ]]>
 </IFrameResource>
 </NonLinear>
   <NonLinear width="375" height="70" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
 <IFrameResource>
 <![CDATA[
-https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
+https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
 ]]>
 </IFrameResource>
 </NonLinear>
   <NonLinear width="320" height="60" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
 <IFrameResource>
 <![CDATA[
-https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
+https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
 ]]>
 </IFrameResource>
 </NonLinear>
     <NonLinear width="880" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
 <IFrameResource>
 <![CDATA[
-https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
+https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
 ]]>
 </IFrameResource>
 </NonLinear>
