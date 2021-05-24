@@ -1,5 +1,5 @@
 <VAST version="3.0">
-    <Ad id="20004">
+    <Ad id="20004" sequence="1">
         <InLine>
             <AdSystem version="4.0">iabtechlab</AdSystem>
 
@@ -18,18 +18,6 @@
             <Impression id="Impression-ID">http://example.com/track/impression</Impression>
 
             <Creatives>
-                <Creative id="5480" sequence="1">
-                    <CompanionAds>
-                        <Companion id="1232" width="300" height="250" assetWidth="250" assetHeight="200" expandedWidth="350" expandedHeight="250">
-                               <StaticResource creativeType="image/png">
-                                <![CDATA[https://www.iab.com/wp-content/uploads/2014/09/iab-tech-lab-6-644x290.png]]>
-                                </StaticResource>
-                                <CompanionClickThrough>
-                                    <![CDATA[https://iabtechlab.com]]>
-                                </CompanionClickThrough>
-                        </Companion>
-                    </CompanionAds>
-                </Creative>
                 <Creative id="5480" sequence="1">
                     <Linear>
                         <Duration>00:00:16</Duration>
@@ -66,4 +54,44 @@
             </Extensions>
         </InLine>
     </Ad>
+    <Ad id="2482c0c1cdde942d00a035c29844bf71-overlay" sequence="2">
+<InLine>
+<AdSystem>Kargo</AdSystem>
+<AdTitle>Test VAST</AdTitle>
+<Creatives>
+<Creative sequence="1">
+<NonLinearAds>
+<NonLinear width="414" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+<StaticResource creativeType="application/x-javascript">
+<![CDATA[
+https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
+]]>
+</StaticResource>
+</NonLinear>
+  <NonLinear width="375" height="70" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+<StaticResource creativeType="application/x-javascript">
+<![CDATA[
+https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
+]]>
+</StaticResource>
+</NonLinear>
+  <NonLinear width="320" height="60" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+<StaticResource creativeType="application/x-javascript">
+<![CDATA[
+https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
+]]>
+</StaticResource>
+</NonLinear>
+    <NonLinear width="880" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+<StaticResource creativeType="application/x-javascript">
+<![CDATA[
+https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
+]]>
+</StaticResource>
+</NonLinear>
+</NonLinearAds>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
 </VAST>
