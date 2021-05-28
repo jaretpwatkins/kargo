@@ -1,6 +1,6 @@
 <VAST version="3.0">
 <Ad id="84908">
-<Wrapper>
+<Wrapper allowMultipleAds="true">
 <VASTAdTagURI>
 <![CDATA[
 https://raw.githubusercontent.com/jaretpwatkins/kargo/main/Ad_Council_PreRoll_Icon_Overlay.xml
