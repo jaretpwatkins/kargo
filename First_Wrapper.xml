@@ -1,5 +1,5 @@
 <VAST version="3.0">
-<Ad id="84908">
+<Ad id="84908" sequence="1">
 <Wrapper allowMultipleAds="true">
 <VASTAdTagURI>
 <![CDATA[
@@ -7,5 +7,47 @@ https://raw.githubusercontent.com/jaretpwatkins/kargo/main/vast_example.xml
 ]]>
 </VASTAdTagURI>
 </Wrapper>
+</Ad>
+  
+  
+  <Ad id="2482c0c1cdde942d00a035c29844bf71-overlay" sequence="2">
+<InLine>
+<AdSystem>Kargo</AdSystem>
+<AdTitle>Test VAST</AdTitle>
+<Creatives>
+<Creative sequence="1">
+<NonLinearAds>
+<NonLinear width="414" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+<IFrameResource>
+<![CDATA[
+https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
+]]>
+</IFrameResource>
+</NonLinear>
+  <NonLinear width="375" height="70" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+<IFrameResource>
+<![CDATA[
+https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
+]]>
+</IFrameResource>
+</NonLinear>
+  <NonLinear width="320" height="60" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+<IFrameResource>
+<![CDATA[
+https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
+]]>
+</IFrameResource>
+</NonLinear>
+    <NonLinear width="880" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
+<IFrameResource>
+<![CDATA[
+https://storage.cloud.kargo.com/ad/campaign/rm/adCouncil/video/202105171303/Ad_Council_Overlay.html
+]]>
+</IFrameResource>
+</NonLinear>
+</NonLinearAds>
+</Creative>
+</Creatives>
+</InLine>
 </Ad>
 </VAST>
