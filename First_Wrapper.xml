@@ -3,7 +3,7 @@
 <Wrapper allowMultipleAds="true">
 <VASTAdTagURI>
 <![CDATA[
-https://raw.githubusercontent.com/jaretpwatkins/kargo/main/Ad_Council_PreRoll_Icon_Overlay.xml
+https://raw.githubusercontent.com/jaretpwatkins/kargo/main/vast_example.xml
 ]]>
 </VASTAdTagURI>
 </Wrapper>
