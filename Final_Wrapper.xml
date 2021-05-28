@@ -1,6 +1,6 @@
 <VAST version="3.0">
 <Ad id="84908">
-<Wrapper>
+<Wrapper allowMultipleAds="true">
 <VASTAdTagURI>
 <![CDATA[
 https://jaretpwatkins.github.io/kargo/First_Wraper.xml
