@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/jaretpwatkins/kargo/main/vast_example.xml
 </VASTAdTagURI>
 <Creatives>
    <Creative id="111" sequence="1">
+         <Linear>
                               <Icons>
                           <Icon program="AdChoices" width="50" height="50" xPosition="left" yPosition="top">
                             <StaticResource creativeType="image/png">
@@ -16,9 +17,10 @@ https://raw.githubusercontent.com/jaretpwatkins/kargo/main/vast_example.xml
                             </StaticResource>
                           </Icon>
                         </Icons>
+               </Linear>
    </Creative>
-   <Linear>
-   </Linear>
+
+
 </Creatives>
 </Wrapper>
 </Ad>
