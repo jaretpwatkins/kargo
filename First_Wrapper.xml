@@ -7,6 +7,13 @@ https://raw.githubusercontent.com/jaretpwatkins/kargo/main/vast_example.xml
 ]]>
 </VASTAdTagURI>
 </Wrapper>
+   <Icons>
+                         <Icon program="AdChoices" width="160" height="60" xPosition="right" yPosition="bottom">
+                            <StaticResource creativeType="image/png">
+                              <![CDATA[https://jaretpwatkins.github.io/kargo/Ad_Council.png]]>
+                            </StaticResource>
+                          </Icon>
+                        </Icons>
 </Ad>
   
   
