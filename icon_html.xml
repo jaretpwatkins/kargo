@@ -1,0 +1,25 @@
+<VAST version="3.0">
+    <Ad id="20011">
+        <Wrapper>
+            <AdSystem version="4.0">iabtechlab</AdSystem>
+            <VASTAdTagURI><![CDATA[https://raw.githubusercontent.com/InteractiveAdvertisingBureau/VAST_Samples/master/VAST%203.0%20Samples/Inline_Linear_Tag-test.xml]]></VASTAdTagURI>
+
+            <Error>http://example.com/error</Error>
+
+            <Impression>http://example.com/track/impression</Impression>
+            <Creatives>
+                <Creative id="5480" sequence="1">
+                    <Linear>
+                        <Icons>
+                          <Icon program="AdChoices" width="320" height="60" xPosition="left" yPosition="top">
+                            <StaticResource creativeType="application/x-javascript">
+                              <![CDATA[https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html]]>
+                            </StaticResource>
+                          </Icon>
+                        </Icons>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </Wrapper>
+    </Ad>
+</VAST>
