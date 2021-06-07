@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/jaretpwatkins/kargo/main/vast_example.xml
    <Creative id="111" sequence="1">
          <Linear>
                               <Icons>
-                          <Icon program="AdChoices" width="50" height="50" xPosition="left" yPosition="top">
+                          <Icon program="AdChoices" width="160" height="60" xPosition="left" yPosition="top">
 <VASTAdTagURI>
 <![CDATA[
 https://raw.githubusercontent.com/jaretpwatkins/kargo/main/icon.xml
