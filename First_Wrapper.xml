@@ -12,9 +12,11 @@ https://raw.githubusercontent.com/jaretpwatkins/kargo/main/vast_example.xml
          <Linear>
                               <Icons>
                           <Icon program="AdChoices" width="50" height="50" xPosition="left" yPosition="top">
-                            <StaticResource creativeType="image/png">
-                              <![CDATA[https://youradchoices.com/DAA_style/YAC/Icon_White_Box.png]]>
-                            </StaticResource>
+<VASTAdTagURI>
+<![CDATA[
+https://raw.githubusercontent.com/jaretpwatkins/kargo/main/icon.xml
+]]>
+</VASTAdTagURI>>
                           </Icon>
                         </Icons>
                </Linear>
