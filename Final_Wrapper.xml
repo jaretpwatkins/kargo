@@ -3,7 +3,7 @@
 <Wrapper allowMultipleAds="true">
 <VASTAdTagURI>
 <![CDATA[
-https://raw.githubusercontent.com/jaretpwatkins/kargo/main/First_Wrapper.xml
+https://raw.githubusercontent.com/jaretpwatkins/kargo/main/vast_example.xml
 ]]>
 </VASTAdTagURI>
 </Wrapper>
