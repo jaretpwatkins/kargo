@@ -1,9 +1,18 @@
 <VAST version="3.0">
-<Ad id="84908">
+<Ad id="84908" sequence="1">
 <Wrapper allowMultipleAds="true">
 <VASTAdTagURI>
 <![CDATA[
 https://raw.githubusercontent.com/jaretpwatkins/kargo/main/vast_example.xml
+]]>
+</VASTAdTagURI>
+</Wrapper>
+</Ad>
+    <Ad id="2482c0c1cdde942d00a035c29844bf71-overlay" sequence="2">
+<Wrapper allowMultipleAds="true">
+<VASTAdTagURI>
+<![CDATA[
+https://raw.githubusercontent.com/jaretpwatkins/kargo/main/overlay.xml
 ]]>
 </VASTAdTagURI>
 </Wrapper>
