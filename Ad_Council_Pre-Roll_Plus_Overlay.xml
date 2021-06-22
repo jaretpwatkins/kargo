@@ -33,32 +33,32 @@ https://jaretpwatkins.github.io/kargo/Ad_Council.mp4
 <Creative sequence="1">
 <NonLinearAds>
 <NonLinear width="414" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-<StaticResource creativeType="application/x-javascript">
+<IFrameResource>
 <![CDATA[
 https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
 ]]>
-</StaticResource>
+</IFrameResource>
 </NonLinear>
   <NonLinear width="375" height="70" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-<StaticResource creativeType="application/x-javascript">
+<IFrameResource>
 <![CDATA[
 https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
 ]]>
-</StaticResource>
+</IFrameResource>
 </NonLinear>
   <NonLinear width="320" height="60" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-<StaticResource creativeType="application/x-javascript">
+<IFrameResource>
 <![CDATA[
 https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
 ]]>
-</StaticResource>
+</IFrameResource>
 </NonLinear>
     <NonLinear width="880" height="75" minSuggestedDuration="00:00:15" scalable="true" maintainAspectRatio="true">
-<StaticResource creativeType="application/x-javascript">
+<IFrameResource>
 <![CDATA[
 https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
 ]]>
-</StaticResource>
+</IFrameResource>
 </NonLinear>
 </NonLinearAds>
 </Creative>
