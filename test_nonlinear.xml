@@ -25,10 +25,10 @@
             <Creatives>
                 <Creative id="5480" sequence="1">
                     <NonLinearAds>
-                        <NonLinear width="480" height="150" minSuggestedDuration="00:00:05" scalable="false" maintainAspectRatio="true">
-                            <StaticResource creativeType="image/png">
+                        <NonLinear width="320" height="60" minSuggestedDuration="00:00:05" scalable="false" maintainAspectRatio="true">
+                            <StaticResource creativeType="application/x-javascript">
                                 <![CDATA[
-                                http://mms.businesswire.com/media/20150623005446/en/473787/21/iab_tech_lab.jpg
+                                https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
                             ]]>
                             </StaticResource>
 
