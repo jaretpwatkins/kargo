@@ -3,6 +3,11 @@
 <InLine>
 <AdSystem>Kargo</AdSystem>
 <AdTitle>Test VAST</AdTitle>
+  <Impression>
+<![CDATA[
+https://tk.kargo.com/t/impression.2eucc5arkobuhdrj?rand=1428188630&kid=&uuid=d04e4570-5168-4211-8e51-4aac266baf19&aslot={AD_SLOT}&krg_imp_id={IMP_ID}&url=
+]]>
+</Impression>
 <Creatives>
 <Creative sequence="1">
 <Linear>
