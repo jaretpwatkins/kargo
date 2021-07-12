@@ -26,11 +26,11 @@
                 <Creative id="5480" sequence="1">
                     <NonLinearAds>
                         <NonLinear width="320" height="60" minSuggestedDuration="00:00:05" scalable="true" maintainAspectRatio="true">
-                            <IFrameResource>
+                            <StaticResource creativeType="application/x-javascript">
                                 <![CDATA[
                                 https://jaretpwatkins.github.io/kargo/Ad_Council_Overlay.html
                             ]]>
-                            </IFrameResource>
+                            </StaticResource>
 
                             <NonLinearClickTracking>
                                 <![CDATA[http://example.com/trackingurl/clickTracking]]>
